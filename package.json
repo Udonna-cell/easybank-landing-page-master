@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  },
+  "name": "easybank-landing-page-master",
+  "description": "![Design preview for the Easybank landing page coding challenge](./design/desktop-preview.jpg)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "udonna-cell",
+  "license": "ISC"
+}
